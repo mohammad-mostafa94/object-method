@@ -1,0 +1,11 @@
+#countryArea{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.country{
+    background-color: beige;
+    border-radius: 21px;
+    border: 1px solid salmon;
+    margin: 22px;
+    padding: 22px;
+}
